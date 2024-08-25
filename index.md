@@ -1,3 +1,11 @@
+## TomChen's First CS193 Homework
+- Favorite thing about CS193
+- It is run by previous CS students, so they know the struggles we have and can relate to us.
+- The class is not tense at all and the teachers are all very welcoming
+- It has a little personality test beforehand so we can all get to know each other on a personal level.
+- Teachers all want us to success in CS 180
+- Quite a small class so teachers can provide more help to each student and get to know them.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
