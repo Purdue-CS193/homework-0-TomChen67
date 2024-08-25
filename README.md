@@ -1,14 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15619289&assignment_repo_type=AssignmentRepo)
 # CS 193 Homework 0 - GitHub and Your Own Website!
-
-## TomChen's First CS193 Homework
-- Favorite thing about CS193
-- It is run by previous CS students, so they know the struggles we have and can relate to us.
-- The class is not tense at all and the teachers are all very welcoming
-- It has a little personality test beforehand so we can all get to know each other on a personal level.
-- Teachers all want us to success in CS 180
-- Quite a small class so teachers can provide more help to each student and get to know them.
-
   
 ## What is this assignment
 
